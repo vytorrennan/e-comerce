@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'eComerce.urls'
+ROOT_URLCONF = 'e-commerce.urls'
 
 TEMPLATES = [
     {
@@ -67,7 +67,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'eComerce.wsgi.application'
+WSGI_APPLICATION = 'e-commerce.wsgi.application'
 
 
 # Database
