@@ -1,2 +1,2 @@
 # e-comerce
-Example of e-comerce in django
+Example of e-commerce in django
